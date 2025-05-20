@@ -1,1 +1,13 @@
-file contents test
+Notes from initial discussion (Tuesday morning) (Chloe taking notes) 
+- Potential research area: the impact of political ideology on Reddit users' impressions of AI
+	- What's the conceptual distance between the left and the right on AI (potentially using launch of ChatGPT for before/after) 
+	- how to capture sentiment? 
+- Potential issue: Reddit data is great, but it's also highly specific (but does not necessarily *appear* specific) 
+	- i.e. - "users" can be anyone, might not map into left/right in American political context; Reddit users trend male, etc
+	- Sadia emphasizes that we can refer to the users just as users and not pursue any further demographic information 
+- Potential (related) issue: being very very careful to explictly state that this is not a general rule, but a specific set of sentiments 
+from a specific set of Reddit users
+
+- Generally in agreement that that's a good project idea; Andrew highlights a dataset he found on Academic Torrents.
+
+- Next steps: Everyone sets up Github Desktop. Adriana makes a repository, and we get everyone on the same page for that. 
